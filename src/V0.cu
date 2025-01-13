@@ -17,10 +17,9 @@ __device__ void swap(int* arr, int i, int j, bool condition) {
     }
 }
 
-__global__ void bitonicExchange(int *arr, int threads, int stage, int step) {
+__global__ void bitonicExchange(int* arr, int threads, int stage, int step) {
 
     unsigned int tid = threadIdx.x + blockDim.x*blockIdx.x;
-
     if (tid < threads) {
 
         unsigned int partner = tid^step;
@@ -40,7 +39,7 @@ __global__ void bitonicExchange(int *arr, int threads, int stage, int step) {
 void bitonicSort(Vector v) {
 
     int n = v.n;
-    int threads = n >> 1;
+    int threads = n>>1;
     int blocks = (threads-1) / THREADS_PER_BLOCK+1;
 
     int* d_arr;
@@ -57,6 +56,4 @@ void bitonicSort(Vector v) {
 
     cudaMemcpy(v.arr, d_arr, size, cudaMemcpyDeviceToHost);
     cudaFree(d_arr);
-
-    return;
 }

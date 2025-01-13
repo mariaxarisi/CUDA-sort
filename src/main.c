@@ -31,20 +31,13 @@ int main(int argc, char* argv[]) {
     
     Vector v = randomVec(1<<n);
 
-    // printf("UNSorted vector:\n");
-    // printVec(v);
-
     float start = clock();
     bitonicSort(v);
     float end = clock();
 
-    // printf("Sorted vector:\n");
-    // printVec(v);
-
     if (isSorted(v)){
-        printf("The vector is sorted\n");
-        printf("Execution Time: %.3f sec\n", (end - start) / CLOCKS_PER_SEC);
-    } 
+        printf("Execution Time: %.3f sec\n", (end-start) / CLOCKS_PER_SEC);
+    }
 
     destroyVec(v);
 
