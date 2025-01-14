@@ -1,0 +1,131 @@
+N = 16 
+bin/V0 16
+Running V0 implementation.
+Execution Time: 0.057 sec
+bin/V1 16
+Running V1 implementation.
+Execution Time: 0.040 sec
+bin/V2 16
+Running V2 implementation.
+Execution Time: 0.041 sec
+ 
+N = 17 
+bin/V0 17
+Running V0 implementation.
+Execution Time: 0.047 sec
+bin/V1 17
+Running V1 implementation.
+Execution Time: 0.045 sec
+bin/V2 17
+Running V2 implementation.
+Execution Time: 0.044 sec
+ 
+N = 18 
+bin/V0 18
+Running V0 implementation.
+Execution Time: 0.049 sec
+bin/V1 18
+Running V1 implementation.
+Execution Time: 0.046 sec
+bin/V2 18
+Running V2 implementation.
+Execution Time: 0.045 sec
+ 
+N = 19 
+bin/V0 19
+Running V0 implementation.
+Execution Time: 0.057 sec
+bin/V1 19
+Running V1 implementation.
+Execution Time: 0.050 sec
+bin/V2 19
+Running V2 implementation.
+Execution Time: 0.045 sec
+ 
+N = 20 
+bin/V0 20
+Running V0 implementation.
+Execution Time: 0.072 sec
+bin/V1 20
+Running V1 implementation.
+Execution Time: 0.064 sec
+bin/V2 20
+Running V2 implementation.
+Execution Time: 0.058 sec
+ 
+N = 21 
+bin/V0 21
+Running V0 implementation.
+Execution Time: 0.108 sec
+bin/V1 21
+Running V1 implementation.
+Execution Time: 0.091 sec
+bin/V2 21
+Running V2 implementation.
+Execution Time: 0.074 sec
+ 
+N = 22 
+bin/V0 22
+Running V0 implementation.
+Execution Time: 0.183 sec
+bin/V1 22
+Running V1 implementation.
+Execution Time: 0.141 sec
+bin/V2 22
+Running V2 implementation.
+Execution Time: 0.110 sec
+ 
+N = 23 
+bin/V0 23
+Running V0 implementation.
+Execution Time: 0.331 sec
+bin/V1 23
+Running V1 implementation.
+Execution Time: 0.248 sec
+bin/V2 23
+Running V2 implementation.
+Execution Time: 0.195 sec
+ 
+N = 24 
+bin/V0 24
+Running V0 implementation.
+Execution Time: 0.625 sec
+bin/V1 24
+Running V1 implementation.
+Execution Time: 0.490 sec
+bin/V2 24
+Running V2 implementation.
+Execution Time: 0.371 sec
+ 
+N = 25 
+bin/V0 25
+Running V0 implementation.
+Execution Time: 1.255 sec
+bin/V1 25
+Running V1 implementation.
+Execution Time: 1.028 sec
+bin/V2 25
+Running V2 implementation.
+Execution Time: 0.801 sec
+ 
+N = 26 
+bin/V0 26
+Running V0 implementation.
+Execution Time: 2.607 sec
+bin/V1 26
+Running V1 implementation.
+Execution Time: 2.070 sec
+bin/V2 26
+Running V2 implementation.
+Execution Time: 1.588 sec
+ 
+N = 27 
+bin/V0 27
+Running V0 implementation.
+Execution Time: 5.469 sec
+bin/V1 27
+Running V1 implementation.
+Execution Time: 4.382 sec
+bin/V2 27
+Running V2 implementation.
+Execution Time: 3.417 sec
