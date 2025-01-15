@@ -6,6 +6,10 @@
 
 int main(int argc, char* argv[]) {
 
+#ifdef VERSION_QSORT
+    printf("Running qsort implementation.\n");
+#endif
+
 #ifdef VERSION_V0
     printf("Running V0 implementation.\n");
 #endif

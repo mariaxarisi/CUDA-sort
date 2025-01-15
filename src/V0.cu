@@ -2,9 +2,7 @@
 #include "../include/bitonic.h"
 
 #include <cuda_runtime.h>
-#include <stdio.h>
 #include <stdbool.h>
-#include <time.h>
 
 #define THREADS_PER_BLOCK 1024
 
