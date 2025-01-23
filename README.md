@@ -42,12 +42,13 @@ To run a specific implementation (for example V0) run:
 ## Testing
 
 ### Specifications
-This program was executed on a Windows machine with a **NVIDIA GeForce GTX 750 GPU**. We used `CUDA 11.8` to accommodate the low compute capability (5) of the specific graphics card. We tested for values of *N* in the range [16..27], where the total numbers are *N*<sup>2</sup>.
+This program was executed on a Windows machine with a **NVIDIA GeForce GTX 750** GPU and in the *gpu* partition of the Aristotle University cluster with a **NVIDIA Tesla P100** for testing. We used CUDA 11.8 to accommodate the low compute capability (5) of the first graphics card and CUDA 12.2 for the second. We tested for values of N in the range [16..28], where the total numbers are *N*<sup>2</sup>.
 
 ### Results
 In the graphic below, we observe the *performance* of the algorithm for different values of *N*, compared to qsort.
 
 ![GTX750.png](assets/GTX750.png)
+![TESLAP100.png](assets/TESLAP100.png)
 
 ## Apendix
 

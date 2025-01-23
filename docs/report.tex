@@ -325,14 +325,21 @@ As previously mentioned, a serial version of this algorithm has a time complexit
     \end{tikzpicture}
 \end{center}
 
-This program was executed on a Windows machine with a \textbf{NVIDIA GeForce GTX 750} GPU. We used CUDA 11.8 to accommodate the low compute capability (5) of the specific graphics card. We tested for values of N in the range [16..27], where the total numbers are $2^N$. \newpage
+This program was executed on a Windows machine with a \textbf{NVIDIA GeForce GTX 750} GPU and in the \textbf{gpu} partition of the Aristotle University cluster with a \textbf{NVIDIA Tesla P100} for testing. We used CUDA 11.8 to accommodate the low compute capability (5) of the first graphics card and CUDA 12.2 for the second. We tested for values of N in the range [16..28], where the total numbers are $2^N$. \newpage
 
-In the graphic below, we observe the \textit{performance} of the algorithm for different values of $n$, compared to qsort. 
+In the graphics below, we observe the \textit{performance} of the algorithm for different values of $n$, compared to qsort. 
 
 \begin{figure}[H]
     \centering
     \includegraphics[width=1\linewidth]{assets/GTX750.png}
-    \caption{Performance}
+    \caption{NVIDIA GeForce GTX 750 Performance}
+    \label{fig:enter-label}
+\end{figure}
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=1\linewidth]{assets/TESLAP100.png}
+    \caption{NVIDIA Tesla P100 Performance}
     \label{fig:enter-label}
 \end{figure}
 

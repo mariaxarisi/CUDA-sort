@@ -1,0 +1,194 @@
+N = 16
+
+bin/qsort 16
+Running qsort implementation.
+Execution Time: 0.007 sec
+bin/V0 16
+Running V0 implementation.
+Execution Time: 0.232 sec
+bin/V1 16
+Running V1 implementation.
+Execution Time: 0.230 sec
+bin/V2 16
+Running V2 implementation.
+Execution Time: 0.229 sec
+
+N = 17
+
+bin/qsort 17
+Running qsort implementation.
+Execution Time: 0.014 sec
+bin/V0 17
+Running V0 implementation.
+Execution Time: 0.179 sec
+bin/V1 17
+Running V1 implementation.
+Execution Time: 0.178 sec
+bin/V2 17
+Running V2 implementation.
+Execution Time: 0.178 sec
+
+N = 18
+
+bin/qsort 18
+Running qsort implementation.
+Execution Time: 0.029 sec
+bin/V0 18
+Running V0 implementation.
+Execution Time: 0.179 sec
+bin/V1 18
+Running V1 implementation.
+Execution Time: 0.178 sec
+bin/V2 18
+Running V2 implementation.
+Execution Time: 0.180 sec
+
+N = 19
+
+bin/qsort 19
+Running qsort implementation.
+Execution Time: 0.059 sec
+bin/V0 19
+Running V0 implementation.
+Execution Time: 0.181 sec
+bin/V1 19
+Running V1 implementation.
+Execution Time: 0.180 sec
+bin/V2 19
+Running V2 implementation.
+Execution Time: 0.178 sec
+
+N = 20
+
+bin/qsort 20
+Running qsort implementation.
+Execution Time: 0.121 sec
+bin/V0 20
+Running V0 implementation.
+Execution Time: 0.185 sec
+bin/V1 20
+Running V1 implementation.
+Execution Time: 0.182 sec
+bin/V2 20
+Running V2 implementation.
+Execution Time: 0.182 sec
+
+N = 21
+
+bin/qsort 21
+Running qsort implementation.
+Execution Time: 0.248 sec
+bin/V0 21
+Running V0 implementation.
+Execution Time: 0.191 sec
+bin/V1 21
+Running V1 implementation.
+Execution Time: 0.187 sec
+bin/V2 21
+Running V2 implementation.
+Execution Time: 0.184 sec
+
+N = 22
+
+bin/qsort 22
+Running qsort implementation.
+Execution Time: 0.509 sec
+bin/V0 22
+Running V0 implementation.
+Execution Time: 0.204 sec
+bin/V1 22
+Running V1 implementation.
+Execution Time: 0.196 sec
+bin/V2 22
+Running V2 implementation.
+Execution Time: 0.193 sec
+
+N = 23
+
+bin/qsort 23
+Running qsort implementation.
+Execution Time: 1.044 sec
+bin/V0 23
+Running V0 implementation.
+Execution Time: 0.232 sec
+bin/V1 23
+Running V1 implementation.
+Execution Time: 0.216 sec
+bin/V2 23
+Running V2 implementation.
+Execution Time: 0.210 sec
+
+N = 24
+
+bin/qsort 24
+Running qsort implementation.
+Execution Time: 2.142 sec
+bin/V0 24
+Running V0 implementation.
+Execution Time: 0.284 sec
+bin/V1 24
+Running V1 implementation.
+Execution Time: 0.254 sec
+bin/V2 24
+Running V2 implementation.
+Execution Time: 0.243 sec
+
+N = 25
+
+bin/qsort 25
+Running qsort implementation.
+Execution Time: 4.394 sec
+bin/V0 25
+Running V0 implementation.
+Execution Time: 0.391 sec
+bin/V1 25
+Running V1 implementation.
+Execution Time: 0.337 sec
+bin/V2 25
+Running V2 implementation.
+Execution Time: 0.314 sec
+
+N = 26
+
+bin/qsort 26
+Running qsort implementation.
+Execution Time: 8.992 sec
+bin/V0 26
+Running V0 implementation.
+Execution Time: 0.622 sec
+bin/V1 26
+Running V1 implementation.
+Execution Time: 0.513 sec
+bin/V2 26
+Running V2 implementation.
+Execution Time: 0.467 sec
+
+N = 27
+
+bin/qsort 27
+Running qsort implementation.
+Execution Time: 18.414 sec
+bin/V0 27
+Running V0 implementation.
+Execution Time: 1.108 sec
+bin/V1 27
+Running V1 implementation.
+Execution Time: 0.885 sec
+bin/V2 27
+Running V2 implementation.
+Execution Time: 0.789 sec
+
+N = 28
+
+bin/qsort 28
+Running qsort implementation.
+Execution Time: 37.698 sec
+bin/V0 28
+Running V0 implementation.
+Execution Time: 2.118 sec
+bin/V1 28
+Running V1 implementation.
+Execution Time: 1.656 sec
+bin/V2 28
+Running V2 implementation.
+Execution Time: 1.473 sec
