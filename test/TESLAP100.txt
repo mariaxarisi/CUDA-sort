@@ -2,7 +2,7 @@ N = 16
 
 bin/qsort 16
 Running qsort implementation.
-Execution Time: 0.007 sec
+Execution Time: 0.004 sec
 bin/V0 16
 Running V0 implementation.
 Execution Time: 0.232 sec
@@ -17,7 +17,7 @@ N = 17
 
 bin/qsort 17
 Running qsort implementation.
-Execution Time: 0.014 sec
+Execution Time: 0.008 sec
 bin/V0 17
 Running V0 implementation.
 Execution Time: 0.179 sec
@@ -32,7 +32,7 @@ N = 18
 
 bin/qsort 18
 Running qsort implementation.
-Execution Time: 0.029 sec
+Execution Time: 0.014 sec
 bin/V0 18
 Running V0 implementation.
 Execution Time: 0.179 sec
@@ -47,7 +47,7 @@ N = 19
 
 bin/qsort 19
 Running qsort implementation.
-Execution Time: 0.059 sec
+Execution Time: 0.029 sec
 bin/V0 19
 Running V0 implementation.
 Execution Time: 0.181 sec
@@ -62,7 +62,7 @@ N = 20
 
 bin/qsort 20
 Running qsort implementation.
-Execution Time: 0.121 sec
+Execution Time: 0.055 sec
 bin/V0 20
 Running V0 implementation.
 Execution Time: 0.185 sec
@@ -77,7 +77,7 @@ N = 21
 
 bin/qsort 21
 Running qsort implementation.
-Execution Time: 0.248 sec
+Execution Time: 0.114 sec
 bin/V0 21
 Running V0 implementation.
 Execution Time: 0.191 sec
@@ -92,7 +92,7 @@ N = 22
 
 bin/qsort 22
 Running qsort implementation.
-Execution Time: 0.509 sec
+Execution Time: 0.228 sec
 bin/V0 22
 Running V0 implementation.
 Execution Time: 0.204 sec
@@ -107,7 +107,7 @@ N = 23
 
 bin/qsort 23
 Running qsort implementation.
-Execution Time: 1.044 sec
+Execution Time: 0.466 sec
 bin/V0 23
 Running V0 implementation.
 Execution Time: 0.232 sec
@@ -122,7 +122,7 @@ N = 24
 
 bin/qsort 24
 Running qsort implementation.
-Execution Time: 2.142 sec
+Execution Time: 0.885 sec
 bin/V0 24
 Running V0 implementation.
 Execution Time: 0.284 sec
@@ -137,7 +137,7 @@ N = 25
 
 bin/qsort 25
 Running qsort implementation.
-Execution Time: 4.394 sec
+Execution Time: 1.844 sec
 bin/V0 25
 Running V0 implementation.
 Execution Time: 0.391 sec
@@ -152,7 +152,7 @@ N = 26
 
 bin/qsort 26
 Running qsort implementation.
-Execution Time: 8.992 sec
+Execution Time: 3.697 sec
 bin/V0 26
 Running V0 implementation.
 Execution Time: 0.622 sec
@@ -167,7 +167,7 @@ N = 27
 
 bin/qsort 27
 Running qsort implementation.
-Execution Time: 18.414 sec
+Execution Time: 7.232 sec
 bin/V0 27
 Running V0 implementation.
 Execution Time: 1.108 sec
@@ -182,7 +182,7 @@ N = 28
 
 bin/qsort 28
 Running qsort implementation.
-Execution Time: 37.698 sec
+Execution Time: 14.227 sec
 bin/V0 28
 Running V0 implementation.
 Execution Time: 2.118 sec
